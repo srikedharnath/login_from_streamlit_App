@@ -10,7 +10,7 @@ st.markdown("-------------------------------------------------------------------
 #text
 st.text("Hello!")
 #write
-st.write({"Name": "Laxman","Section":"DS-E"})
+st.write({"Name": "k.sri kedharnath","Section":"DS-E"})
 st.write(123)
 #markdown font styles
 st.markdown("**Sports**")
@@ -108,3 +108,4 @@ option = st.sidebar.selectbox(
 ["Home", "About", "Contact"]
 )
 st.sidebar.write(f"You selected: {option}")
+
